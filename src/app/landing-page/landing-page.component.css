@@ -1,0 +1,15 @@
+p {
+  font-size: large;
+  font-style: oblique;
+  text-align: center;
+  justify-content: center;
+  flex-direction: row;
+  padding: auto;
+}
+.whole-landing-page {
+  background-image: url('../../assets/Images/jujutsu.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
